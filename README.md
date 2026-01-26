@@ -54,11 +54,11 @@ java/
 git clone https://github.com/lucyfier56/java.git
 cd java
 ```
-###Compile a Java file
+### Compile a Java file
 ```
 javac ClassName.java
 ```
-###Run
+### Run
 ```
 java ClassName
 
