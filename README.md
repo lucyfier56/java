@@ -39,9 +39,7 @@ It serves as a sandbox for:
 ```text
 java/
 ├── src/
-│   └── main/
-│       └── java/
-│           └── (packages & classes)
+│   └── (packages & classes)
 ├── README.md
 ```
 ---
