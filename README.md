@@ -67,12 +67,12 @@ java ClassName
 ```
 ⸻
 
-##🧪 Usage
+## 🧪 Usage
 
-###This repository is meant for:
+### This repository is meant for:
 	-	Learning and practice
 	-	Revising Java concepts
 	-	Experimenting with code snippets
 	-	Building confidence before larger projects
 
-###Feel free to modify, extend, or refactor the code.
+### Feel free to modify, extend, or refactor the code.
