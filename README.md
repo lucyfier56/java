@@ -36,15 +36,14 @@ It serves as a sandbox for:
 
 ## 📂 Project Structure
 
+```text
 java/
 ├── src/
 │   └── main/
 │       └── java/
 │           └── (packages & classes)
 ├── README.md
-
-> The structure follows standard Java conventions and can be easily extended into a Maven or Gradle project.
-
+```
 ---
 
 ## 🚀 Getting Started
