@@ -58,7 +58,7 @@ public class BookService {
     }
 
 
-    public List<Book> findByAuthorAndPrice(String author) {
+    public List<Book> findByAuthorAndPrice(String author, int price) {
         return br. findByAuthorAndPrice(author,price);
     }
     

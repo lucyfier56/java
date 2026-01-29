@@ -65,7 +65,7 @@ public class BookController {
     }
     @GetMapping("/by-author")
     public List<Book>  getByAuthorAndPrice(@PathVariable String author, @PathVariable int price) {
-        return bs. findByAuthorAndPrice(author);
+        return bs. findByAuthorAndPrice(author, price);
     }
 
 
